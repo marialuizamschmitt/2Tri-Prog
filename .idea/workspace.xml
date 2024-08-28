@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a2fc195-a45f-4b48-b662-7c8ed2b105d4" name="Changes" comment="aula 19 atividade 01">
-      <change afterPath="$PROJECT_DIR$/src/Aula19/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula19/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploAcesso/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploEncapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploHeranca/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploHeranca/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploHeranca/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploStatic/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploStatic/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploStatic/Operacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/ExemploStatic/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula20/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploAcesso/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploAcesso/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploAcesso2/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploEncapsulamento/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploEncapsulamento/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploHeranca/Engenheiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploHeranca/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploHeranca/Motorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExemploHeranca/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExercicioConta/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExercicioConta/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula21/ExercicioConta/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploArquivos/Escrevendo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploArquivos/Lendo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploArquivos/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploExcecao/Exemplo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploExcecao/Exemplo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploExcecao/Exercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploFinal/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploFinal/Operacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploFinal/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploFinal/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploPolimorfismo/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploPolimorfismo/Operacoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploPolimorfismo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploPolimorfismo/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aula22/exemploPolimorfismo/Teste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula19/Exercicio01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aula19/banco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula19/banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula19/banco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +131,39 @@
       <option name="project" value="LOCAL" />
       <updated>1718198178610</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aula 19 atividade 01">
+      <option name="closed" value="true" />
+      <created>1724805703223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724805703223</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aula 19 atividade 01">
+      <option name="closed" value="true" />
+      <created>1724805714843</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724805714843</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aula 19 atividade 01">
+      <option name="closed" value="true" />
+      <created>1724805739662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724805739662</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aula 19 atividade 01">
+      <option name="closed" value="true" />
+      <created>1724805751937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724805751938</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

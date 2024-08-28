@@ -1,18 +1,42 @@
 package Aula19;
-import java.util.Scanner;
-public class B {
-    public static void main(String[] args) {
-        Conta c1= new Conta();
-        c1.geraidentificador();
-        System.out.println("a nova conta tem o identificador "+c1.identificador);
-        c1.titular = "jonas";
-        c1.depositar(1000);
-        if (c1.sacar(1500)){
-            System.out.println("saque realizado");
+import java.util.Random;
+
+public class Banco {
+    String titular;
+    String identificador;
+    String senha;
+    float saldo;
+
+    public void Conta (String titular, String senha, float saldo){
+        gerarIdentificador();
+        this.titular=titular;
+        this.senha=senha;
+        this.saldo=saldo;
+    }
+
+    void gerarIdentificador(){
+        String texto = "";
+        for (int i=0;i<4;i++){
+            texto+=(char) new Random().nextInt(65,91);
         }
-        else{
-            System.out.println("saldo insuficiente");
+        int valor = new Random().nextInt(1000,10000);
+        identificador= texto + valor;
+    }
+
+    void depositar (float valor) {
+        saldo += valor;
+    }
+
+    boolean sacar(float valor){
+        if (valor <=saldo) {
+            saldo-=valor;
+            return true;
         }
+        return false;
+    }
+
+    String verificarSaldo(){
+        return "Saldo atual R$ "+String.format("%.2f",saldo);
     }
 
 }
